@@ -24,6 +24,8 @@ set signcolumn=yes
 set noshowmode
 set completeopt=menuone,noinsert,noselect
 
+au BufNewFile,BufRead *.qml set filetype=qml
+
 call plug#begin('~/.vim/plugged')
 Plug 'gruvbox-community/gruvbox'
 Plug 'nvim-telescope/telescope.nvim'
