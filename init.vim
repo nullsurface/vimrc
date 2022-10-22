@@ -28,6 +28,7 @@ au BufNewFile,BufRead *.qml set filetype=qml
 call plug#begin('~/.vim/plugged')
 Plug 'gruvbox-community/gruvbox'
 Plug 'nvim-telescope/telescope.nvim'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
 call plug#end()
 
 colorscheme gruvbox
