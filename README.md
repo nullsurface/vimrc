@@ -1,1 +1,1 @@
-This is an neovim config taken from the youtuber ThePrimeagen. I'll be slowly making my own additions along the way, but you gotta start from somewhere.
+This is an neovim config taken from the youtuber ThePrimeagen. I'll be slowly making my own additions along the way, but you gotta start from somewhere. This is ssetup to use with vim, main branch is for neovim.
