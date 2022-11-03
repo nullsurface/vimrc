@@ -22,6 +22,7 @@ set scrolloff=8
 set signcolumn=yes
 set noshowmode
 set completeopt=menuone,noinsert,noselect
+set bg=dark
 
 au BufNewFile,BufRead *.qml set filetype=qml
 
