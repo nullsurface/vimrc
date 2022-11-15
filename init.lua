@@ -3,7 +3,7 @@ vim.cmd [[packadd packer.nvim]]
 vim.opt.list = true
 vim.opt.listchars:append('tab:> ')
 vim.opt.shiftwidth = 4
-vim.opt.cursorline = true
+vim.opt.cursorline = false
 vim.opt.termguicolors = true
 vim.opt.smartindent = true
 vim.opt.guicursor = ''
