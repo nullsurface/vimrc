@@ -1,3 +1,0 @@
-[submodule "syntax"]
-	path = syntax
-	url = git@github.com:nullsurface/vim-qml.git
